@@ -1,43 +1,35 @@
-# 🐾 WildBase
+<p align="center">
+  <h1 align="center">🐾 WildBase</h1>
+  <p align="center">A comprehensive animal database web application for browsing and managing pet information.</p>
+</p>
 
-A comprehensive animal database web application for browsing and managing pet information.
+<p align="center">
+  <a href="https://github.com/tabassumliya/WildBase/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/tabassumliya/WildBase?style=for-the-badge" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
-## Features
+<p align="center">
+  <img src="https://img.shields.io/github/stars/tabassumliya/WildBase?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/tabassumliya/WildBase?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/issues/tabassumliya/WildBase?style=for-the-badge" alt="Issues">
+  <img src="https://img.shields.io/github/last-commit/tabassumliya/WildBase?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/tabassumliya/WildBase?style=for-the-badge" alt="Repo Size">
+</p>
 
-- **Multi-category database**: Browse cats, dogs, birds, rabbits, and hedgehogs
-- **Advanced filtering**: Search by name, breed, or origin with category filters
-- **Multiple views**: Card, List, and Compact view modes
-- **Detailed information**: Each animal includes temperament, care level, price range, and more
-- **My Friends section**: Keep personal records of your pets with photos
-- **Responsive design**: Works on desktop and mobile devices
-- **Local storage**: Your personal pet data persists in the browser
+---
 
-## Tech Stack
+## 📊 Project Stats
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
-- **Database**: JSON data structure
-- **Storage**: LocalStorage for personal records
-- **Styling**: Modern CSS with gradients and animations
-- **No frameworks**: Pure vanilla implementation
-
-## Project Structure
-
-```
-WildBase/
-├── index.html              # Main application
-├── animals.json            # Animal database (81 breeds/species)
-├── create_database.sql     # SQL schema for reference
-├── assets/
-│   ├── cats/              # 56 cat breed images
-│   ├── dogs/              # 12 dog breed images
-│   ├── birds/             # 6 bird species images
-│   ├── rabbits/           # 5 rabbit breed images
-│   └── hedgehogs/         # 2 hedgehog species images
-├── my-friends/
-│   ├── photos/            # Personal pet photos
-│   └── (data in localStorage)
-└── README.md
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Animals-81-blue?style=for-the-badge&logo=database&logoColor=white" alt="Animals">
+  <img src="https://img.shields.io/badge/Categories-5-orange?style=for-the-badge&logo=list&logoColor=white" alt="Categories">
+  <img src="https://img.shields.io/badge/Images-81-green?style=for-the-badge&logo=image&logoColor=white" alt="Images">
+  <img src="https://img.shields.io/badge/Lines_of_Code-2800+-purple?style=for-the-badge&logo=code&logoColor=white" alt="Lines of Code">
+</p>
 
 ## Categories
 
@@ -68,7 +60,30 @@ WildBase/
 - Edit and delete entries
 - Data persists in browser localStorage
 
-## Getting Started
+## Quick Start
+
+<p align="center">
+  <a href="https://github.com/tabassumliya/WildBase">
+    <img src="https://img.shields.io/badge/📥_Clone-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Clone">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/⬇️_Download-764ba2?style=for-the-badge&logo=zip&logoColor=white" alt="Download">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase#-getting-started">
+    <img src="https://img.shields.io/badge/📖_Docs-28a745?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs">
+  </a>
+</p>
+
+```bash
+# Clone the repository
+git clone https://github.com/tabassumliya/WildBase.git
+
+# Navigate to project directory
+cd WildBase
+
+# Open in browser
+open index.html
+```
 
 1. Open `index.html` in any modern web browser
 2. No server required - runs entirely client-side
@@ -95,15 +110,48 @@ This project was built with vanilla HTML, CSS, and JavaScript. No build tools or
 - JavaScript ES6+ features
 - LocalStorage API for data persistence
 
-## License
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+<p align="center">
+  <a href="https://github.com/tabassumliya/WildBase/issues">
+    <img src="https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase/pulls">
+    <img src="https://img.shields.io/badge/💡_Request_Feature-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Request Feature">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase/pulls">
+    <img src="https://img.shields.io/badge/🔄_Submit_PR-blue?style=for-the-badge&logo=github&logoColor=white" alt="Submit PR">
+  </a>
+</p>
+
+## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_With_❤️_By-Tabassum_Liya-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Made with Love">
+</p>
 
-**Tabassum Liya**
-- GitHub: [@tabassumliya](https://github.com/tabassumliya)
+<p align="center">
+  <a href="https://github.com/tabassumliya/WildBase">
+    <img src="https://img.shields.io/badge/⭐_Star_This_Project-FFE810?style=for-the-badge&logo=github&logoColor=black" alt="Star">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase/fork">
+    <img src="https://img.shields.io/badge/🍴_Fork-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Fork">
+  </a>
+  <a href="https://github.com/tabassumliya/WildBase/watchers">
+    <img src="https://img.shields.io/badge/👁️_Watch-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Watch">
+  </a>
+</p>
 
 ---
 
-*Built with ❤️ for animal lovers everywhere*
+<p align="center">
+  <i>Built with ❤️ for animal lovers everywhere</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🙏_Thank_You_For_Visiting-28a745?style=for-the-badge&logo=heart&logoColor=white" alt="Thank You">
+</p>
